@@ -1,6 +1,6 @@
 # Prognozy giełdowe na podstawie raportów ESPI
 
-Projekt realizowany w ramach zajęć na SGH. Celem jest zbadanie, czy model językowy (GPT) jest w stanie przewidywać krótkoterminowe zmiany kursu akcji Allegro na podstawie komunikatów ESPI (Elektroniczny System Przekazywania Informacji).
+Projekt realizowany w ramach zajęć na SGH. Celem jest zbadanie, czy model językowy (GPT) jest w stanie przewidywać krótkoterminowe zmiany kursu akcji Allegro na podstawie komunikatów ESPI (Elektroniczny System Przekazywania Informacji). 
 
 ## Struktura projektu
 
